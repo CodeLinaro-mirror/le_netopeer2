@@ -133,8 +133,6 @@ set(SERVER_SRC
     src/netconf_nmda.c
     src/netconf_subscribed_notifications.c
     src/netconf_confirmed_commit.c
-    src/subscribed_notifications.c
-    src/yang_push.c
     src/log.c
     src/err_netconf.c)
 
